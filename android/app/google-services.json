@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231783485127",
+    "project_id": "senatibeats",
+    "storage_bucket": "senatibeats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231783485127:android:29f69681d8f8c0059878e2",
+        "android_client_info": {
+          "package_name": "com.example.senatibeats_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7AtlRraNnlFqEOGuFDf0quCIUo7p3OgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
